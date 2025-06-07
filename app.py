@@ -6,7 +6,7 @@ from twitter import TwitterClient
 app = Flask(__name__)
 
 # Create an instance of the TwitterClient with a specific username
-api = TwitterClient('@Ashish17969125')
+api = TwitterClient('@takunda_kagura')
 
 # Function to convert string to boolean
 def strtobool(v):
